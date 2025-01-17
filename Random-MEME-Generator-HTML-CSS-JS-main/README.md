@@ -1,9 +1,6 @@
-# Random MEME Generator | HTML, CSS & JS - Tonsomar AKA Nitin
-Hello Coders!
+# Random MEME Generator | HTML, CSS & JS 
+Meme Generator App
+Create and share hilarious memes in seconds with this easy-to-use app. 
+Customize your favorite images with captions and bring the fun to life!
 
-⚠️ Heroku has discontinued support for free Dynos, so the old Domain meme-api.herokuapp.com has stopped working ⚠️
-
-Please update your apps to the new Domain meme-api.com to continue using the API
-
-Thanks for reading!
-*Keep Calm Code On! 🧑‍💻*
+Thanks for reading ! 🧑‍💻
